@@ -13,6 +13,7 @@ private-media
 
 # If you are using PyCharm #
 .idea
+.idea/
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
@@ -127,6 +128,3 @@ GitHub.sublime-settings
 !.vscode/extensions.json
 .history
 
-# civan
-civan/local_settings.py
-static_root
